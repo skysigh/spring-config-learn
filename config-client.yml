@@ -1,5 +1,6 @@
 info:
   profile: default
+  test: wck
 
 wck:
   age: 26
